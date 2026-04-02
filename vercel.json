@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/Worksheet_Life_Calling_Discovery.html"
+    }
+  ]
+}
